@@ -1,0 +1,2 @@
+# extractionBomFromIsometric
+アイソメ図からの部品帳票作成
