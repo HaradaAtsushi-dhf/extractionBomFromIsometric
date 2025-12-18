@@ -1,2 +1,3 @@
 # extractionBomFromIsometric
 アイソメ図からの部品帳票作成
+251218　作成
